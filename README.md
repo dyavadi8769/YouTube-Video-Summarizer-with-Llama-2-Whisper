@@ -50,8 +50,8 @@ torch == 2.0.1
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dyavadi8769/YouTube-Video-Summarizer-with-Llama-2-Whisper.git
-   cd YouTube-Video-Summarizer-with-Llama-2-Whisper
+   git clone https://github.com/dyavadi8769/YouTube-Video-Summarizer-with-Llama2-Whisper.git
+   cd YouTube-Video-Summarizer-with-Llama2-Whisper
 2.  **Create a virtual environment and activate it:**
     ```bash
     conda create -p env python==3.9 -y
