@@ -79,13 +79,12 @@ flowchart TB
 ## ⚙️ Configuration
 
 # Audio Settings
-AUDIO_FORMAT = 'wav'        # Supported: wav, mp3, flac
-BITRATE = '160kbps'         # Audio quality
-
+- AUDIO_FORMAT = 'wav'       
+- BITRATE = '160kbps'        
 # Model Parameters
-MAX_TOKENS = 512            # Summary length
-TEMPERATURE = 0.7           # 0-1 (higher = more creative)
-GPU_ENABLED = False         # Set True for CUDA acceleration
+- MAX_TOKENS = 512          
+- TEMPERATURE = 0.7          
+- GPU_ENABLED = False     
 
 
 # Author:
