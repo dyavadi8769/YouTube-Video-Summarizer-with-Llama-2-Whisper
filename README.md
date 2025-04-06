@@ -1,6 +1,5 @@
 # YouTube Video Summarizer with Llama 2 & Whisper
 
-![Project Workflow](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=YouTube+→+Whisper+→+Llama2+→+Summary)
 
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
